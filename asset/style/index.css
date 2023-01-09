@@ -54,9 +54,15 @@ h3{
     background-color: #104465;
     text-align: center;
     color: whitesmoke;
-    height: 80px;
+    height: 150px;
     width: 55%;
     margin: auto;
     padding-top: 25px;
     min-width: 530px;
+}
+#git{
+    width: 80px;
+}
+a:hover{
+    opacity: 0.8;
 }
