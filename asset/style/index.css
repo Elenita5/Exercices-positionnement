@@ -35,18 +35,18 @@ h1, h2{
 }
 h3{
     padding: 10px;
-   margin-left:30px;
+    margin-left:30px;
     text-decoration: underline;
 }
-.exo{
+ul li{
     list-style: none;
     border: 1px solid black;
-    padding: 8px;
+    padding: 2px;
     width: 40%;
-    border-bottom: none;
     margin-left: 30px;
+    border-bottom: none;
 }
-ul:last-child{
+li:last-child{
     border-bottom: 1px solid black;
 }
 #footer{
@@ -65,11 +65,14 @@ ul:last-child{
 #git:hover{
     opacity: 0.8;
 }
-a{
+ul a{
     text-decoration: none;
     color: rgb(39, 37, 37);
+    display: block;
+    padding: 4px;
+    padding-left: 5px;
 }
-ul li:hover{
-    background-color:#104465;
+a:hover{
     color: white;
+    background-color: #104465
 }
