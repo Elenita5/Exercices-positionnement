@@ -1,19 +1,30 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+div{
+    border: 1px solid black;
+}
+a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    background-color:#104465;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: #165e8c;
+}
+.carre{
+    width: 150px;
+    height: 150px;
+}
 #contain{
     width: 30%;
     height: 500px;
     border: none;
     margin: auto;
     margin-top: 150px;
-}
-.carre{
-    width: 150px;
-    height: 150px;
-}
-div{
-    border: 1px solid black;
 }
 #vert{
     background-color: rgb(47, 168, 47); 
@@ -37,16 +48,5 @@ div{
 #gris{
     background-color: grey;
     float: right;
-}
-a{
-    color: white;
-    text-decoration: none;
-    border: 1px solid white;
-    padding: 5px;
-    background-color:#104465;
-    border-radius: 5px;
-}
-a:hover{
-    background-color: #165e8c;
 }
 

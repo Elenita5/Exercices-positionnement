@@ -1,24 +1,6 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-#contain{
-    width: 50%;
-    border: none;
-}
-div{
-    padding: 30px;
-    border: 1px solid black;
-    margin: auto;
-}
-#orange{
-    background-color: rgba(203, 147, 44, 0.866);
-}
-#violet{
-    background-color: rgb(183, 95, 183);
-}
-#vert{
-    background-color: rgb(47, 168, 47);
-}
 a{
     color: white;
     text-decoration: none;
@@ -32,4 +14,22 @@ a:hover{
 }
 main{
     margin-top: 30px;
+}
+div{
+    padding: 30px;
+    border: 1px solid black;
+    margin: auto;
+}
+#contain{
+    width: 50%;
+    border: none;
+}
+#orange{
+    background-color: rgba(203, 147, 44, 0.866);
+}
+#violet{
+    background-color: rgb(183, 95, 183);
+}
+#vert{
+    background-color: rgb(47, 168, 47);
 }

@@ -5,6 +5,17 @@ ul, li{
     list-style: none;
     padding: 5px;
 }
+a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    background-color:#104465;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: #165e8c;
+}
 #menu{
     position: sticky;
     top: 5px;
@@ -27,14 +38,4 @@ ul, li{
     min-width: 50%;
     text-align: justify;
 }
-a{
-    color: white;
-    text-decoration: none;
-    border: 1px solid white;
-    padding: 5px;
-    background-color:#104465;
-    border-radius: 5px;
-}
-a:hover{
-    background-color: #165e8c;
-}
+

@@ -1,32 +1,7 @@
-#contain{
-    width: 50%;
-    border: none;
-    padding: 0;
-}
 div{
     padding: 30px;
     border: 1px solid black;
     margin: auto;
-}
-#orange{
-    background-color: rgb(203, 147, 44);
-    position: absolute;
-    top: 150px;
-    left: 150px;
-}
-#violet{
-    background-color: rgba(183, 95, 183,0.852);
-}
-#vert{
-    background-color: rgb(47, 168, 47);
-    position: absolute;
-    top: 150px;
-    left: 150px;
-}
-#ciel{
-    background-color: aqua;
-    position: relative;
-    top:1px
 }
 a{
     color: white;
@@ -39,3 +14,29 @@ a{
 a:hover{
     background-color: #165e8c;
 }
+#contain{
+    width: 50%;
+    border: none;
+    padding: 0;
+}
+#orange{
+    background-color: rgb(203, 147, 44);
+    position: absolute;
+    top: 150px;
+    left: 160px;
+}
+#violet{
+    background-color: rgba(183, 95, 183,0.852);
+}
+#vert{
+    background-color: rgb(47, 168, 47);
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+#ciel{
+    background-color: aqua;
+    position: relative;
+    top:1px
+}
+
