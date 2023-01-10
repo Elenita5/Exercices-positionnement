@@ -1,3 +1,6 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 div{
     padding: 30px;
     border: 1px solid black;
@@ -32,7 +35,7 @@ a:hover{
     background-color: rgb(47, 168, 47);
     position: absolute;
     top: 150px;
-    left: 250px;
+    left: 280px;
 }
 #ciel{
     background-color: aqua;
